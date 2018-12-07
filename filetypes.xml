@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping pattern="server.js" type="PLAIN_TEXT" />
       <mapping pattern="test2.js" type="PLAIN_TEXT" />
+      <mapping pattern="skjhf.js" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
