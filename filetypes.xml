@@ -1,10 +1,11 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
-      <mapping pattern="server.js" type="PLAIN_TEXT" />
-      <mapping pattern="test2.js" type="PLAIN_TEXT" />
-      <mapping pattern="OutFile.js" type="PLAIN_TEXT" />
       <mapping pattern="skjhf.js" type="PLAIN_TEXT" />
+      <mapping pattern="OutFile.js" type="PLAIN_TEXT" />
+      <mapping pattern="лывоа" type="PLAIN_TEXT" />
+      <mapping pattern="test2.js" type="PLAIN_TEXT" />
+      <mapping pattern="server.js" type="PLAIN_TEXT" />
       <mapping ext="srt" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
