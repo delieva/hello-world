@@ -6,6 +6,7 @@
       <mapping pattern="OutFile.js" type="PLAIN_TEXT" />
       <mapping pattern="лывоа" type="PLAIN_TEXT" />
       <mapping pattern="test2.js" type="PLAIN_TEXT" />
+      <mapping pattern="8cbd20c7f128583772f0a33f00f699a6" type="PLAIN_TEXT" />
       <mapping pattern="server.js" type="PLAIN_TEXT" />
       <mapping ext="md" type="PLAIN_TEXT" />
       <mapping ext="srt" type="PLAIN_TEXT" />
